@@ -123,7 +123,3 @@ After successfully hooking a browser, BeEF offers various modules to demonstrate
 
 - Replace HREFs: Modifies all hyperlinks on the page to point to a malicious site. [2]
 
-
- Ethical Considerations
-
-BeEF is a powerful tool intended for authorized penetration testing and security assessments. Unauthorized use against systems without explicit permission is illegal and unethical. Always ensure you have proper authorization before conducting any tests.
